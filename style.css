@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: teal;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+
+#videos iframe {
+    width: 80%;
+}
+
+
+input {
+    background: pink;
+}
+
+p {
+    color: cadetblue;
+}
